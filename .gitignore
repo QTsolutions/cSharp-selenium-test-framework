@@ -1,0 +1,6 @@
+﻿TestResults/
+Hooks/
+extent-config.xml
+bin/
+obj/
+.vs
